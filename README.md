@@ -1,2 +1,3 @@
-#Git
-Open Source Version Control System
+# Git
+
+Open Source Version Control System!
